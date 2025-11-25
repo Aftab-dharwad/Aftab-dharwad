@@ -83,26 +83,21 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aftab-dharwad&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://raw.githubusercontent.com/Aftab-dharwad/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=Aftab-dharwad&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://raw.githubusercontent.com/Aftab-dharwad/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab-dharwad&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://raw.githubusercontent.com/Aftab-dharwad/github-streak/master/streak.svg#gh-dark-mode-only" />
 </p>
 
 
 
----
 
-## 🔥 Fun Animated Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aftab-dharwad&theme=react-dark&hide_border=true">
-</p>
 
 
 ---
@@ -127,16 +122,4 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line-fade.svg" width="600">
 </p>
 
-**Aftab-dharwad/Aftab-dharwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
