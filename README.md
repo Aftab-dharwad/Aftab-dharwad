@@ -79,26 +79,6 @@
 ✔️ User auth + discussions  
 ✔️ Real-time thread updates
 
----
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://raw.githubusercontent.com/Aftab-dharwad/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://raw.githubusercontent.com/Aftab-dharwad/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://raw.githubusercontent.com/Aftab-dharwad/github-streak/master/streak.svg#gh-dark-mode-only" />
-</p>
-
-
-
-
-
-
 
 ---
 
@@ -119,7 +99,6 @@
 
 <p align="center">
   <b>⭐ Thanks for visiting my profile — Have a great day! ⭐</b><br>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line-fade.svg" width="600">
 </p>
 
 
