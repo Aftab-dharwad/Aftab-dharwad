@@ -2,8 +2,9 @@
 
 <!--<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=650&lines=Hi+I'm+Aftab+Dharwad+👋;Full+Stack+Developer+💻;M.Tech+CSE+Student+🎓;AI+%26+ML+Enthusiast+🤖;Always+Learning+New+Things+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=650&lines=Hi+I'm+Aftab+Dharwad+👋;Full+Stack+Developer+💻;M.Tech+CSE+Student+🎓;AI+%26+ML+Enthusiast+🤖;Always+Learning+New+Things+🚀">
 </p>
+
 
 ---
 
@@ -79,25 +80,27 @@
 ✔️ Real-time thread updates
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aftab-dharwad&show_icons=true&theme=tokyonight&hide_border=true" />
   
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aftab-dharwad&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=Aftab-dharwad&theme=tokyonight&hide_border=true" />
 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab-dharwad&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
+
 ---
 
 ## 🔥 Fun Animated Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aftab-dharwad&theme=react-dark&hide_border=true">
 </p>
+
 
 ---
 
