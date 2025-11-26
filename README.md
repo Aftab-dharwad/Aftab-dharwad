@@ -48,47 +48,6 @@
 
 ---
 
-## ⭐ Featured Projects
-
-### 🔹 **📝 Text Classification & Sentiment Analysis (NLP)**
-✔️ Naive Bayes  
-✔️ TF-IDF  
-✔️ VADER Sentiment Analysis  
-✔️ Full preprocessing pipeline  
-📌 _Multi-class blog categorization + sentiment analytics_
-
----
-
-### 🔹 **📊 Flam Analytics Dashboard**
-✔️ Modern dashboard UI  
-✔️ KPIs, charts, insights  
-✔️ Clean dark theme  
-✔️ Built with React
-
----
-
-### 🔹 **📰 News Monkey**
-✔️ Live news fetching  
-✔️ Category-based browsing  
-✔️ React Hooks + Cards UI
-
----
-
-### 🔹 **💬 Thread Hive**
-✔️ MERN full-stack  
-✔️ User auth + discussions  
-✔️ Real-time thread updates
-
-
----
-
-## 🌱 Currently Learning  
-- Advanced ML  
-- Backend Architecture  
-- Cloud Deployments  
-- High-Performance React  
-
----
 
 ## 📫 Contact Me
 
